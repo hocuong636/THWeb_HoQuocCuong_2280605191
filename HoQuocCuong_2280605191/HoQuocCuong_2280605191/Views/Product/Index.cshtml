@@ -1,0 +1,31 @@
+﻿@model IEnumerable<HoQuocCuong_2280605191.Models.Product>
+
+<h2>Products</h2>
+<div class="d-flex justify-content-end mb-2">
+    <a asp-action="Add" class="btn btn-primary">Add Product</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@product.Id">View</a>
+                    <a asp-action="Update" asp-route-id="@product.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
