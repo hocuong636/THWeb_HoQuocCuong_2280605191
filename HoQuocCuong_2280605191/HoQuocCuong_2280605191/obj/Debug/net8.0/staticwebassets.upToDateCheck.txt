@@ -1,6 +1,5 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\image\Dell Inspiron 15.jpg
 wwwroot\image\products\Acer Nitro 5.jpg
 wwwroot\image\products\Dell Inspiron 15.jpg
 wwwroot\image\products\MacBook Air M1.jpg
@@ -11,7 +10,6 @@ wwwroot\image\products\PC Văn Phòng HP.jpg
 wwwroot\image\products\ROG Strix G15.jpg
 wwwroot\image\products\ThinkPad X1 Carbon.jpg
 wwwroot\image\products\Workstation Dell.jpg
-wwwroot\image\ThinkPad X1 Carbon.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

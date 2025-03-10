@@ -33,7 +33,6 @@ namespace HoQuocCuong_2280605191.Controllers
             {
                 if (imageUrl != null)
                 {
-                    // Lưu hình ảnh đại diện 
                     product.ImageUrl = await SaveImage(imageUrl);
                 }
                 _productRepository.Add(product);
@@ -43,16 +42,14 @@ namespace HoQuocCuong_2280605191.Controllers
         }
         private async Task<string> SaveImage(IFormFile image)
         {
-            var savePath = Path.Combine("wwwroot/image", image.FileName); 
+            var savePath = Path.Combine("wwwroot/image/products", image.FileName); 
             using (var fileStream = new FileStream(savePath, FileMode.Create))
             {
                 await image.CopyToAsync(fileStream);
             }
-            return "/image/" + image.FileName; 
+            return "/image/products/" + image.FileName; 
         }
-        // Các actions khác như Display, Update, Delete 
 
-        // Display a list of products 
         public IActionResult Index()
         {
             var products = _productRepository.GetAll();
@@ -69,7 +66,6 @@ namespace HoQuocCuong_2280605191.Controllers
             return View(product);
         }
 
-        // Show the product update form 
         public IActionResult Update(int id)
         {
             var product = _productRepository.GetById(id);
@@ -90,12 +86,10 @@ namespace HoQuocCuong_2280605191.Controllers
             {
                 if (imageUrl != null)
                 {
-                    // Lưu hình ảnh mới
                     product.ImageUrl = await SaveImage(imageUrl);
                 }
                 else
                 {
-                    // Giữ lại đường dẫn hình ảnh cũ nếu không upload hình mới
                     var existingProduct = _productRepository.GetById(product.Id);
                     product.ImageUrl = existingProduct.ImageUrl;
                 }
@@ -107,7 +101,6 @@ namespace HoQuocCuong_2280605191.Controllers
             return View(product);
         }
 
-        // Show the product delete confirmation 
         public IActionResult Delete(int id)
         {
             var product = _productRepository.GetById(id);
@@ -118,7 +111,6 @@ namespace HoQuocCuong_2280605191.Controllers
             return View(product);
         }
 
-        // Process the product deletion 
         [HttpPost, ActionName("Delete")]
         public IActionResult DeleteConfirmed(int id)
         {

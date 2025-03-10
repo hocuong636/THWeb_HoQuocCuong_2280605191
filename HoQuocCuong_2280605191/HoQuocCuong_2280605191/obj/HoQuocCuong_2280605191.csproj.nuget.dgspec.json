@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\web\\TH\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj": {}
+    "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj": {}
   },
   "projects": {
-    "D:\\code\\web\\TH\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj": {
+    "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\web\\TH\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj",
+        "projectUniqueName": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj",
         "projectName": "HoQuocCuong_2280605191",
-        "projectPath": "D:\\code\\web\\TH\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj",
+        "projectPath": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.csproj",
         "packagesPath": "C:\\Users\\abcmn\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\web\\TH\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\obj\\",
+        "outputPath": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -36,18 +36,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fmfoyo5k1x"},{"Name":"integrity","Value":"sha256-6Yj6lBuCU37vlszH4sx\u002Bp\u002BXCEZofiaVlOvoHzXHsSEk="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/HoQuocCuong_2280605191.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226Yj6lBuCU37vlszH4sx\u002Bp\u002BXCEZofiaVlOvoHzXHsSEk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 01:48:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/image/Dell Inspiron 15.8rshrf8gzk.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\Dell Inspiron 15.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8rshrf8gzk"},{"Name":"integrity","Value":"sha256-1MKfEtUbz4EQUqx7H983kiKLce6TTC7Vwp9SB72jEsc="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/image/Dell Inspiron 15.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18995"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221MKfEtUbz4EQUqx7H983kiKLce6TTC7Vwp9SB72jEsc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:39:16 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/image/Dell Inspiron 15.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\Dell Inspiron 15.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1MKfEtUbz4EQUqx7H983kiKLce6TTC7Vwp9SB72jEsc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18995"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221MKfEtUbz4EQUqx7H983kiKLce6TTC7Vwp9SB72jEsc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:39:16 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/image/products/Acer Nitro 5.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\products\Acer Nitro 5.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -167,18 +155,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PBfCvjommWkitrtWxJpNYDknoW0UmUwEZNYdNbz5DMM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20115"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PBfCvjommWkitrtWxJpNYDknoW0UmUwEZNYdNbz5DMM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:26:46 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/image/ThinkPad X1 Carbon.6dx0ytf9d0.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\ThinkPad X1 Carbon.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6dx0ytf9d0"},{"Name":"integrity","Value":"sha256-6s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/image/ThinkPad X1 Carbon.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12991"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:45:02 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/image/ThinkPad X1 Carbon.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\ThinkPad X1 Carbon.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12991"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:45:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
