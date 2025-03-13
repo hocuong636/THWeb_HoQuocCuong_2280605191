@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:20:11.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:18:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:15:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:15:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:14:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:10:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:10:10.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T16:42:45.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T15:24:27.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T15:54:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Models\\Product.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\Product.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:44:04.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T15:36:41.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T15:35:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T15:35:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Program.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Program.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Program.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:28:14.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv3EAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:10:46.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

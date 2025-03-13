@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:42:46.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:42:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:42:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:42:45.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:42:44.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

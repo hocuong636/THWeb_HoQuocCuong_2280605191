@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HoQuocCuong_2280605191"
+    "\\Bai2",
+    "\\Bai3",
+    "\\Bai3\\2280605191_HoQuocCuong",
+    "\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong",
+    "\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Controllers"
   ],
-  "SelectedNode": "\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191.sln",
+  "SelectedNode": "\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }
