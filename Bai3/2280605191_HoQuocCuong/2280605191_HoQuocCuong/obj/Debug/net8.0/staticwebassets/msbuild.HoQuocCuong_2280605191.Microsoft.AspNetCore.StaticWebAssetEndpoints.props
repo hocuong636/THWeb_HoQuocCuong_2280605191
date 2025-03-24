@@ -28,25 +28,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HoQuocCuong_2280605191.8kn60qt2sb.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kn60qt2sb"},{"Name":"integrity","Value":"sha256-OEstVgE9etvkr\u002BDzqM0KfsbNTjD2w0XHpzNsjOt1CZY="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/HoQuocCuong_2280605191.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OEstVgE9etvkr\u002BDzqM0KfsbNTjD2w0XHpzNsjOt1CZY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 15:21:08 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OEstVgE9etvkr\u002BDzqM0KfsbNTjD2w0XHpzNsjOt1CZY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 13:44:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/HoQuocCuong_2280605191.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HoQuocCuong_2280605191.8kn60qt2sb.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OEstVgE9etvkr\u002BDzqM0KfsbNTjD2w0XHpzNsjOt1CZY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OEstVgE9etvkr\u002BDzqM0KfsbNTjD2w0XHpzNsjOt1CZY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 15:21:08 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1140"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OEstVgE9etvkr\u002BDzqM0KfsbNTjD2w0XHpzNsjOt1CZY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 13:44:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/Acer Nitro 5.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Acer Nitro 5.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cdfRlmAZfP5uNQQw83zc0WKyvEmEUhpWWu8WG\u002Bxch/8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18315"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cdfRlmAZfP5uNQQw83zc0WKyvEmEUhpWWu8WG\u002Bxch/8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:41:05 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18315"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cdfRlmAZfP5uNQQw83zc0WKyvEmEUhpWWu8WG\u002Bxch/8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:36:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/Acer Nitro 5.x0hxzctm3e.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Acer Nitro 5.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x0hxzctm3e"},{"Name":"integrity","Value":"sha256-cdfRlmAZfP5uNQQw83zc0WKyvEmEUhpWWu8WG\u002Bxch/8="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/images/Acer Nitro 5.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18315"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cdfRlmAZfP5uNQQw83zc0WKyvEmEUhpWWu8WG\u002Bxch/8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:41:05 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18315"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cdfRlmAZfP5uNQQw83zc0WKyvEmEUhpWWu8WG\u002Bxch/8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:36:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/Dell Inspiron 15.8rshrf8gzk.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Dell Inspiron 15.jpg'))</AssetFile>
@@ -60,17 +60,41 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1MKfEtUbz4EQUqx7H983kiKLce6TTC7Vwp9SB72jEsc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18995"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221MKfEtUbz4EQUqx7H983kiKLce6TTC7Vwp9SB72jEsc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:51:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/iPad Pro M2 12.9.208hyzmf2k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\iPad Pro M2 12.9.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"208hyzmf2k"},{"Name":"integrity","Value":"sha256-wjD7qSDXr6VDzJzKoaiZdXGbliequww7pNbuU\u002B24M08="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/images/iPad Pro M2 12.9.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9980"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wjD7qSDXr6VDzJzKoaiZdXGbliequww7pNbuU\u002B24M08=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:44:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/iPad Pro M2 12.9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\iPad Pro M2 12.9.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wjD7qSDXr6VDzJzKoaiZdXGbliequww7pNbuU\u002B24M08="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9980"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wjD7qSDXr6VDzJzKoaiZdXGbliequww7pNbuU\u002B24M08=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:44:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/PC Gaming ASUS ROG.giht359bqr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PC Gaming ASUS ROG.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"giht359bqr"},{"Name":"integrity","Value":"sha256-6GRBJhCndeocTK1qRBPRrxjjCXra7STYXbLY3EgcadA="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/images/PC Gaming ASUS ROG.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14637"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226GRBJhCndeocTK1qRBPRrxjjCXra7STYXbLY3EgcadA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:41:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/PC Gaming ASUS ROG.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PC Gaming ASUS ROG.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6GRBJhCndeocTK1qRBPRrxjjCXra7STYXbLY3EgcadA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14637"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226GRBJhCndeocTK1qRBPRrxjjCXra7STYXbLY3EgcadA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:41:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/PC Gaming MSI.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PC Gaming MSI.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1QBHBJuPdea/paPYNBMmarqmw5mRaFCuhhrXBvCWspo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221QBHBJuPdea/paPYNBMmarqmw5mRaFCuhhrXBvCWspo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:50:46 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221QBHBJuPdea/paPYNBMmarqmw5mRaFCuhhrXBvCWspo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:37:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/PC Gaming MSI.z2wfr5kp7b.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PC Gaming MSI.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z2wfr5kp7b"},{"Name":"integrity","Value":"sha256-1QBHBJuPdea/paPYNBMmarqmw5mRaFCuhhrXBvCWspo="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/images/PC Gaming MSI.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221QBHBJuPdea/paPYNBMmarqmw5mRaFCuhhrXBvCWspo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:50:46 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221QBHBJuPdea/paPYNBMmarqmw5mRaFCuhhrXBvCWspo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:37:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/PC Văn Phòng HP.4j6y15bsim.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PC Văn Phòng HP.jpg'))</AssetFile>
@@ -83,6 +107,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kNqFUBnUUIQzYcb0\u002B3Sq/TpIx6MIF5BwGYqbxTiH1uE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11841"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kNqFUBnUUIQzYcb0\u002B3Sq/TpIx6MIF5BwGYqbxTiH1uE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/Samsung Galaxy Tab S9 Ultra.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Samsung Galaxy Tab S9 Ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NTSBPLFffvwjZ8MQMGfEsN\u002BOIEr1B6y\u002Br2RdnBEZRRE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8879"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NTSBPLFffvwjZ8MQMGfEsN\u002BOIEr1B6y\u002Br2RdnBEZRRE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:45:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/Samsung Galaxy Tab S9 Ultra.pb9w1j3t8x.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Samsung Galaxy Tab S9 Ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pb9w1j3t8x"},{"Name":"integrity","Value":"sha256-NTSBPLFffvwjZ8MQMGfEsN\u002BOIEr1B6y\u002Br2RdnBEZRRE="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/images/Samsung Galaxy Tab S9 Ultra.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8879"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NTSBPLFffvwjZ8MQMGfEsN\u002BOIEr1B6y\u002Br2RdnBEZRRE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:45:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/ThinkPad X1 Carbon.6dx0ytf9d0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ThinkPad X1 Carbon.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6dx0ytf9d0"},{"Name":"integrity","Value":"sha256-6s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo="},{"Name":"label","Value":"_content/HoQuocCuong_2280605191/images/ThinkPad X1 Carbon.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12991"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:37:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/ThinkPad X1 Carbon.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ThinkPad X1 Carbon.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12991"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226s5LQmvKDKEF91hGbzDt/4Xu24gRJyOGVKVnqrNtVQo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:37:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HoQuocCuong_2280605191/images/Ảnh chụp màn hình 2024-09-27 212423.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Ảnh chụp màn hình 2024-09-27 212423.png'))</AssetFile>

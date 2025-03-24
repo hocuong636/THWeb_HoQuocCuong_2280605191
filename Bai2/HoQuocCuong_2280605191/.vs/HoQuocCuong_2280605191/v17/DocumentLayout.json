@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,6 +29,10 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MockProductRepository.cs",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "HoQuocCuong_2280605191\\Repositories\\MockProductRepository.cs",
               "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai2\\HoQuocCuong_2280605191\\HoQuocCuong_2280605191\\Repositories\\MockProductRepository.cs",
               "RelativeToolTip": "HoQuocCuong_2280605191\\Repositories\\MockProductRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDoAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:50:00.222Z",
               "EditorCaption": ""
@@ -51,8 +55,7 @@
               "RelativeToolTip": "HoQuocCuong_2280605191\\Repositories\\MockCategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:49:59.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:49:59.295Z"
             }
           ]
         }

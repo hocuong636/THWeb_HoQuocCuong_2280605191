@@ -1,0 +1,64 @@
+﻿@model _2280605191_HoQuocCuong.Models.Order
+
+@{
+	ViewData["Title"] = "Chi tiết đơn hàng";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chi tiết đơn hàng #@Model.Id</h2>
+
+<div class="row">
+	<div class="col-md-6">
+		<h4>Thông tin đơn hàng</h4>
+		<dl class="row">
+			<dt class="col-sm-4">Khách hàng:</dt>
+			<dd class="col-sm-8">@Model.CustomerName</dd>
+
+			<dt class="col-sm-4">Số điện thoại:</dt>
+			<dd class="col-sm-8">@Model.PhoneNumber</dd>
+
+			<dt class="col-sm-4">Địa chỉ:</dt>
+			<dd class="col-sm-8">@Model.Address</dd>
+
+			<dt class="col-sm-4">Ngày đặt:</dt>
+			<dd class="col-sm-8">@Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</dd>
+
+			<dt class="col-sm-4">Trạng thái:</dt>
+			<dd class="col-sm-8">@Model.Status</dd>
+		</dl>
+	</div>
+</div>
+
+<h4>Chi tiết sản phẩm</h4>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Sản phẩm</th>
+			<th>Giá</th>
+			<th>Số lượng</th>
+			<th>Thành tiền</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.OrderDetails)
+		{
+			<tr>
+				<td>@item.Product.Name</td>
+				<td>@item.Price.ToString("N0") VNĐ</td>
+				<td>@item.Quantity</td>
+				<td>@((item.Price * item.Quantity).ToString("N0")) VNĐ</td>
+			</tr>
+		}
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="3" class="text-right"><strong>Tổng cộng:</strong></td>
+			<td><strong>@Model.TotalAmount.ToString("N0") VNĐ</strong></td>
+		</tr>
+	</tfoot>
+</table>
+
+<div>
+	<a asp-area="Admin" asp-controller="Order" asp-action="UpdateStatus" asp-route-id="@Model.Id" class="btn btn-warning">Cập nhật trạng thái</a>
+	<a asp-area="Admin" asp-controller="Order" asp-action="Index" class="btn btn-secondary">Trở về danh sách</a>
+</div>

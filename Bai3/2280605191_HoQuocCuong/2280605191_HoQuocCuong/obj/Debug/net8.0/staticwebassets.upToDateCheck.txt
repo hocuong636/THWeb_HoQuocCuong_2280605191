@@ -3,8 +3,12 @@ wwwroot\favicon.ico
 wwwroot\images\Acer Nitro 5.jpg
 wwwroot\images\Ảnh chụp màn hình 2024-09-27 212423.png
 wwwroot\images\Dell Inspiron 15.jpg
+wwwroot\images\iPad Pro M2 12.9.jpg
+wwwroot\images\PC Gaming ASUS ROG.jpg
 wwwroot\images\PC Gaming MSI.jpg
 wwwroot\images\PC Văn Phòng HP.jpg
+wwwroot\images\Samsung Galaxy Tab S9 Ultra.jpg
+wwwroot\images\ThinkPad X1 Carbon.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
