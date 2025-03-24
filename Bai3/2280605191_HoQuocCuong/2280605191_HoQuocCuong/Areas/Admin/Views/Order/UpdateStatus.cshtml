@@ -1,0 +1,28 @@
+@model _2280605191_HoQuocCuong.Models.Order
+
+@{
+    ViewData["Title"] = "Cập nhật trạng thái đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cập nhật trạng thái đơn hàng #@Model.Id</h2>
+
+<form asp-area="Admin" asp-controller="Order" asp-action="UpdateStatus" method="post">
+    <input type="hidden" asp-for="Id" />
+    
+    <div class="form-group">
+        <label asp-for="Status">Trạng thái</label>
+        <select asp-for="Status" class="form-control">
+            <option value="Pending">Chờ xử lý</option>
+            <option value="Processing">Đang xử lý</option>
+            <option value="Shipped">Đã giao hàng</option>
+            <option value="Completed">Hoàn thành</option>
+            <option value="Cancelled">Đã hủy</option>
+        </select>
+    </div>
+
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-primary">Cập nhật</button>
+        <a asp-area="Admin" asp-controller="Order" asp-action="Index" class="btn btn-secondary">Trở về danh sách</a>
+    </div>
+</form> 
