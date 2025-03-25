@@ -48,10 +48,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Areas/Admin/Views/Order/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQWRkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Areas/Admin/Views/Order/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -138,6 +134,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Views/ShoppingCart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XENoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Views/ShoppingCart/OrderCompleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XE9yZGVyQ29tcGxldGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/code/web/THWeb_HoQuocCuong_2280605191/Bai3/2280605191_HoQuocCuong/2280605191_HoQuocCuong/Views/_ViewImports.cshtml]

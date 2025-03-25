@@ -1,28 +1,55 @@
-@model _2280605191_HoQuocCuong.Models.Order
-
+@model Order
 @{
-    ViewData["Title"] = "Cập nhật trạng thái đơn hàng";
+    ViewData["Title"] = "Cập nhật đơn hàng";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<div class="container mt-4">
+    <h2 class="mb-4">Cập nhật thông tin đơn hàng #@Model.Id</h2>
 
-<h2>Cập nhật trạng thái đơn hàng #@Model.Id</h2>
-
-<form asp-area="Admin" asp-controller="Order" asp-action="UpdateStatus" method="post">
-    <input type="hidden" asp-for="Id" />
-    
-    <div class="form-group">
-        <label asp-for="Status">Trạng thái</label>
-        <select asp-for="Status" class="form-control">
-            <option value="Pending">Chờ xử lý</option>
-            <option value="Processing">Đang xử lý</option>
-            <option value="Shipped">Đã giao hàng</option>
-            <option value="Completed">Hoàn thành</option>
-            <option value="Cancelled">Đã hủy</option>
-        </select>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5>Thông tin đơn hàng</h5>
+                </div>
+                <div class="card-body">
+                    <p><strong>Mã đơn hàng:</strong> @Model.Id</p>
+                    <p><strong>Khách hàng:</strong> @Model.ApplicationUser?.UserName</p>
+                    <p><strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+                    <p><strong>Tổng tiền:</strong> @Model.TotalPrice.ToString("N0") ₫</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <form asp-action="UpdateStatus" method="post">
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="UserId" />
+                <input type="hidden" asp-for="OrderDate" />
+                <input type="hidden" asp-for="TotalPrice" />
+                
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Cập nhật thông tin</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label asp-for="ShippingAddress" class="form-label">Địa chỉ giao hàng</label>
+                            <textarea asp-for="ShippingAddress" class="form-control" rows="3"></textarea>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="Notes" class="form-label">Ghi chú</label>
+                            <textarea asp-for="Notes" class="form-control" rows="3"></textarea>
+                        </div>
+                        
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">Cập nhật</button>
+                            <a asp-action="Display" asp-route-id="@Model.Id" class="btn btn-secondary">Quay lại</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
     </div>
-
-    <div class="form-group mt-3">
-        <button type="submit" class="btn btn-primary">Cập nhật</button>
-        <a asp-area="Admin" asp-controller="Order" asp-action="Index" class="btn btn-secondary">Trở về danh sách</a>
-    </div>
-</form> 
+</div> 

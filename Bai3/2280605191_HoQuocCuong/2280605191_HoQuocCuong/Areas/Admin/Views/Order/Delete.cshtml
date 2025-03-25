@@ -1,12 +1,22 @@
-﻿@model _2280605191_HoQuocCuong.Models.Product
-@{
-	ViewData["Title"] = "Xóa Sản Phẩm";
-	Layout = "~/Views/Shared/_Layout.cshtml";
-}
-<h2>Xóa Sản Phẩm</h2>
-<form asp-action="DeleteConfirmed" method="post">
-	<input type="hidden" asp-for="Id" />
-	<p>Bạn chắc chắc muốn xóa @Model.Name?</p>
-	<button type="submit" class="btn btn-danger">Xác nhận</button>
-	<a asp-action="Index" class="btn btn-secondary">Trở về</a>
-</form> 
+﻿@model Order
+
+<div class="container mt-4">
+	<h2 class="mb-4">Xác nhận xóa đơn hàng</h2>
+	
+	<div class="alert alert-danger">
+		<h4>Bạn có chắc chắn muốn xóa đơn hàng #@Model.Id?</h4>
+		<p>Thông tin đơn hàng:</p>
+		<ul>
+			<li>Khách hàng: @Model.ApplicationUser?.UserName</li>
+			<li>Ngày đặt: @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</li>
+			<li>Tổng tiền: @Model.TotalPrice.ToString("N0") ₫</li>
+		</ul>
+		<p class="mb-0">Hành động này không thể hoàn tác.</p>
+	</div>
+	
+	<form asp-action="Delete" method="post">
+		<input type="hidden" asp-for="Id" />
+		<button type="submit" class="btn btn-danger">Xác nhận xóa</button>
+		<a asp-action="Index" class="btn btn-secondary">Hủy</a>
+	</form>
+</div> 

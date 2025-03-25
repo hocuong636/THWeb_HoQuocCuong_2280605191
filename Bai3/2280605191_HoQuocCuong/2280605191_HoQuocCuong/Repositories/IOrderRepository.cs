@@ -1,4 +1,4 @@
-using _2280605191_HoQuocCuong.Models;
+﻿using _2280605191_HoQuocCuong.Models;
 
 namespace _2280605191_HoQuocCuong.Repositories
 {
@@ -6,8 +6,9 @@ namespace _2280605191_HoQuocCuong.Repositories
     {
         Task<IEnumerable<Order>> GetAllAsync();
         Task<Order> GetByIdAsync(int id);
+        Task<Order> GetOrderWithDetailsAsync(int id);
         Task AddAsync(Order order);
-        Task UpdateStatusAsync(Order order);
+        Task UpdateAsync(Order order);
         Task DeleteAsync(int id);
     }
-} 
+}
