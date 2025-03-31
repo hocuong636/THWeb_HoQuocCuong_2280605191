@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|d:\\code\\web\\thweb_hoquoccuong_2280605191\\bai3\\2280605191_hoquoccuong\\2280605191_hoquoccuong\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EDF292F-C3A0-435B-AA2C-E055F51BE5B1}|2280605191_HoQuocCuong\\HoQuocCuong_2280605191.csproj|solutionrelative:2280605191_hoquoccuong\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -70,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +98,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Models\\Product.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\Product.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:52:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:51:57.846Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "2280605191_HoQuocCuong\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:50:55.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -94,12 +143,11 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:41:32.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:41:32.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -107,12 +155,11 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:38:54.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:38:54.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
@@ -120,12 +167,11 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:36:23.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:36:23.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Shared\\_LoginPartial.cshtml",
@@ -133,25 +179,23 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:34:22.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:34:22.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwC0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:34:00.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:34:00.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
@@ -159,12 +203,11 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:33:34.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:33:34.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\Home\\Privacy.cshtml",
@@ -172,12 +215,11 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:33:33.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:33:33.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Display.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Display.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Display.cshtml",
@@ -185,25 +227,23 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Display.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:32:24.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:32:24.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwCYAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T03:52:43.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T03:52:43.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UpdateStatus.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\UpdateStatus.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\UpdateStatus.cshtml",
@@ -211,12 +251,11 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Order\\UpdateStatus.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T03:54:53.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T03:54:53.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "OrderCompleted.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\ShoppingCart\\OrderCompleted.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\ShoppingCart\\OrderCompleted.cshtml",
@@ -224,37 +263,35 @@
               "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\ShoppingCart\\OrderCompleted.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:32:33.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:32:33.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Views\\ShoppingCart\\Index.cshtml",
               "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeToolTip": "2280605191_HoQuocCuong\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:32:48.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T12:32:48.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-25T03:53:55.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Category\\Add.cshtml",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Views\\Category\\Add.cshtml",
@@ -266,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\code\\web\\THWeb_HoQuocCuong_2280605191\\Bai3\\2280605191_HoQuocCuong\\2280605191_HoQuocCuong\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "2280605191_HoQuocCuong\\Areas\\Admin\\Controllers\\OrderController.cs",
